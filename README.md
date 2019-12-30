@@ -2,6 +2,8 @@
 
 A simple static helper class for managing Unity layers.
 
+## Current version: 1.0#1
+
 ## Getting Started
 
 Place the Layers.cs and ListExtensions.cs scripts into your project scripts folder or place the "Layers" folder into your asset folder.
