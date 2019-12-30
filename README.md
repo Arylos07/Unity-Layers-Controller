@@ -12,8 +12,8 @@ ListExtensions is a helper class for lists and arrays that is used in the Layers
 
 ## Contributing
 
-Feel free to fork, branch, and make changes as you see fit. If you would like to merge back into this repository master, fill out a pull request outlining what changes were made and why.
-	If your changes address an issue, be sure to link that issue so it can be resolved.
+Feel free to fork, branch, and make changes as you see fit. If you would like to merge back into this repository master, fill out a pull request outlining what changes were made and why.  
+If your changes address an issue, be sure to link that issue so it can be resolved.
 
 ## Versioning
 
