@@ -22,8 +22,6 @@ We use a variant of [SemVer](http://semver.org/) for versioning. All version num
 
 * **Michael Cox** - *Initial work* - [Arylos07](https://github.com/Arylos07)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the CCO License - see the [LICENSE.md](LICENSE.md) file for details
