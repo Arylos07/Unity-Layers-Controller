@@ -1,4 +1,4 @@
-﻿// Written by Michael Cox. CCO license: free to use, modify, and distribute.
+﻿// Written by Michael Cox. GNU General Public License v3.0 license: free to use, modify, and distribute with attribution.
 
 using System.Collections;
 using System.Collections.Generic;

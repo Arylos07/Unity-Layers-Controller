@@ -24,4 +24,4 @@ We use a variant of [SemVer](http://semver.org/) for versioning. All version num
 
 ## License
 
-This project is licensed under the CCO License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0: you are free to use, modify, and distribute with attribution - see the [LICENSE.md](LICENSE.md) file for details. 
