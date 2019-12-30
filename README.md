@@ -2,6 +2,8 @@
 
 A simple static helper class for managing Unity layers.
 
+## Current version: 1.0#1
+
 ## Getting Started
 
 Place the Layers.cs and ListExtensions.cs scripts into your project scripts folder or place the "Layers" folder into your asset folder.
@@ -12,7 +14,8 @@ ListExtensions is a helper class for lists and arrays that is used in the Layers
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](LINK) for details on our code of conduct, and the process for submitting pull requests.
+Feel free to fork, branch, and make changes as you see fit. If you would like to merge back into this repository master, fill out a pull request outlining what changes were made and why.  
+If your changes address an issue, be sure to link that issue so it can be resolved.
 
 ## Versioning
 
@@ -22,8 +25,6 @@ We use a variant of [SemVer](http://semver.org/) for versioning. All version num
 
 * **Michael Cox** - *Initial work* - [Arylos07](https://github.com/Arylos07)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
-This project is licensed under the CCO License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU General Public License v3.0: you are free to use, modify, and distribute with attribution - see the [LICENSE.md](LICENSE.md) file for details. 
