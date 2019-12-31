@@ -42,5 +42,24 @@ Sets the layer of the given object and all of its children to the given layer na
 
 ### SetLayerRecursively(GameObject obj, int newLayer, string ignoreObjectName)
 
-Sets the layer of the given object and its children to the given integer layer. This function will ignore the object with the name specified. (Instantiated objects may not apply without the " (clone)" suffix)
+Sets the layer of the given object and its children to the given integer layer. This function will ignore any objects with the name specified. (Instantiated objects may not apply without the " (clone)" suffix).
 
+### SetLayerRecursively(GameObject obj, string newLayer, string ignoreObjectName)
+
+Sets the layer of the given object and its children to the given layer name. This function will ignore any objects with the name specified. (Instantiated objects may not apply without the " (clone)" suffix).
+
+### SetLayerRecursively(GameObject obj, int newLayer, string[] ignoreObjectName)
+
+Sets the layer of the given object and its children to the given integer layer. This function will ignore any objects with names in the given array.
+
+### SetLayerRecursively(GameObject obj, string newLayer, string[] ignoreObjectName)
+
+Sets the layer of the given object and its children to the given layer name. This function will ignore any objects with names in the given array.
+
+### SetLayerRecursively(GameObject obj, int newLayer, List<string> ignoreObjectName)
+
+Sets the layer of the given object and its children to the given integer layer. This function will ignore any objects with names in the given list.
+
+### SetLayerRecursively(GameObject obj, string newLayer, List<string> ignoreObjectName)
+
+Sets the layer of the given object and its children to the given layer name. This function will ignore any objects with names in the given list.
