@@ -1,4 +1,4 @@
-# Unity Layers Controller 
+# Unity Layers Controller version 1.0#1
 
 This is the user guide to the Layers class for managing object layers. There are many overflow methods to allow flexibility. Overflows are listed below the parent function.
 
