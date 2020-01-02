@@ -2,7 +2,8 @@
 
 A simple static helper class for managing Unity layers.
 
-## Current version: 1.0#1
+## Current version: 1.0#1 
+[Releases](https://github.com/Arylos07/Unity-Layers-Controller/releases)
 
 ## Getting Started
 
